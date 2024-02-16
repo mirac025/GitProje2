@@ -9,6 +9,7 @@ public class Merhaba1 {
         System.out.println("merhaba1");
         System.out.println("merhaba6");
         System.out.println("merhaba3");
+        System.out.println("ss");
 
     }
 }
